@@ -1,0 +1,34 @@
+    [
+        {
+            "id": 1,
+            "title":"The Candy House 70 m2 plein centre",
+            "address": "No. 11,rue de plantagenet 49000 Angers",
+            "about": "Je vous accueille dans mon appartement au cœur de la ville d'Angers, place du ralliement",
+            "requirement_wifi": true,
+            "requirement_animaux_admis": true,
+            "requirement_tv": true,
+            "requirement_cuisine": true,
+            "requirement_petit_dej": true,
+            "requirement_laptop": true,
+            "prix_par_nuit": "89€",
+            "prix_extra_personne": "Sans surplus",
+            "reduction_pour_une_semaine": "18%",
+            "reduction_pour_un_mois": "50%"
+        },
+        {
+            "id": 2,
+            "title": "Appart charmant en plein coeur historique",
+            "address": "No. 123,avenue du roi René",
+            "about": " APPART COSY dans le cœur historique d'Angers",
+            "requirement_wifi": true,
+            "requirement_animaux_admis": true,
+            "requirement_tv": true,
+            "requirement_cuisine": true,
+            "requirement_petit_dej": true,
+            "requirement_laptop": true,
+            "prix_par_nuit": "46€",
+            "prix_extra_personne": "Sans surplus",
+            "reduction_pour_une_semaine": "50%",
+            "reduction_pour_un_mois": "75%"
+        }
+    ]
